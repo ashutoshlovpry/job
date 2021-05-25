@@ -39,10 +39,6 @@ CREATE TABLE `apply` (
 
 -- --------------------------------------------------------
 
---
--- Table structure for table `count`
---
-
 CREATE TABLE `count` (
   `num` int(255) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
@@ -131,9 +127,7 @@ CREATE TABLE `js` (
 
 -- --------------------------------------------------------
 
---
--- Table structure for table `jsdetail`
---
+
 
 CREATE TABLE `jsdetail` (
   `skills` varchar(500) NOT NULL,
