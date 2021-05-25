@@ -65,15 +65,9 @@ if($x>$_SESSION['expire'])
             <div class="container">
                 <div class="slider">
                     <ul class="slides">
+                      
                       <li>
-                        <img src="img/download1.jpg"> 
-                        <div class="caption center-align">
-                          <h3>Join today to get access to premium jobs</h3>
-                          <h5 class="light grey-text text-lighten-3">Sign up now</h5>
-                        </div>
-                      </li>
-                      <li>
-                        <img src="img/download2.jpg"> <!-- random image -->
+                        <img src="img/download2.jpg"> 
                         <div class="caption left-align">
                           <h3>Over <?php 
                                 $sql="select * from count";
@@ -86,7 +80,7 @@ if($x>$_SESSION['expire'])
                         </div>
                       </li>
                       <li>
-                        <img src="img/download3.jpg"> <!-- random image -->
+                       
                         <div class="caption right-align">
                           <h3>Premium companies looking to hire</h3>
                           <h5 class="light grey-text text-lighten-3">Join to view Premium jobs according to your taste</h5>
@@ -94,10 +88,10 @@ if($x>$_SESSION['expire'])
                         </div>
                       </li>
                       <li>
-                        <img src="img/download4.jpg"> <!-- random image -->
+                       
                         <div class="caption center-align">
                           <h3>No more wandering for jobs</h3>
-                          <h5 class="light grey-text text-lighten-3">SeekJob is the solution</h5>
+                         
                             <a class="btn waves-effect waves-light" href="login.php">Login</a>
                         </div>
                       </li>
