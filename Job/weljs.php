@@ -49,8 +49,7 @@ if($co==1 && $temp==1){
     <body>
         <nav>
              <div class="nav-wrapper">
-                 <a href="#" class="brand-logo" style="margin-left: 750px"> SeekJob</a>
-                 <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
+                 
                  <ul id="nav-mobile" class="right hide-on-med-and-down">
                      <li><a href="signout.php">Logout</a></li>
                      <li><a href="profile.php">Profile</a></li>
