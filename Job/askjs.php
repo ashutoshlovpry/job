@@ -66,7 +66,7 @@ $id=$_SESSION['id'];
         <link rel="stylesheet" href="./style/style.css" type="text/css">
         <link rel="stylesheet" href="https://jqueryvalidation.org/files/demo/site-demos.css">
 
-        <!-- jQuery library -->
+      
          <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
         <script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/jquery.validate.min.js"></script>
@@ -85,7 +85,7 @@ $id=$_SESSION['id'];
    <body>
          <nav>
              <div class="nav-wrapper">
-                 <a href="#" class="brand-logo" style="margin-left: 750px"> SeekJob</a>
+                 
                  <ul id="nav-mobile" class="right hide-on-med-and-down">
                      <li><a href="signout.php">Logout</a></li>
                      <li><a href="weljs.php">Skip Step</a></li>
