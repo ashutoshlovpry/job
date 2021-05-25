@@ -53,7 +53,7 @@ else
     <body>
         <nav>
              <div class="nav-wrapper">
-                 <!-- <a href="#" class="brand-logo">> SeekJob</a> -->
+                 
                  <ul id="nav-mobile" class="right hide-on-med-and-down">
                      <li><a href="viewapp.php?id=<?php print $_SESSION['b1']; ?>">Go back</a></li>
                      <li><a href="signout.php">Logout</a></li>
