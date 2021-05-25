@@ -95,7 +95,7 @@ if(isset($_FILES['image'])){
     <body>
         <nav>
              <div class="nav-wrapper">
-                 <a href="#" class="brand-logo">> SeekJob</a>
+                 
                  <ul id="nav-mobile" class="right hide-on-med-and-down">
                      <li><a href="weljs.php">Go Back</a></li>
                      <li><a href="signout.php">Logout</a></li>
