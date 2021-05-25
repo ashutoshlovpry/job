@@ -16,9 +16,9 @@ if($x>$_SESSION['expire'])
         <link rel="stylesheet" href="./style/style.css" type="text/css">
         <link rel="stylesheet" href="https://jqueryvalidation.org/files/demo/site-demos.css">
 
-        <!-- jQuery library -->
+        
          <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-        <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+        
         <script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/jquery.validate.min.js"></script>
         <script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/additional-methods.min.js"></script>
          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
@@ -39,7 +39,7 @@ if($x>$_SESSION['expire'])
     <body>
         <nav>
              <div class="nav-wrapper">
-                 <a href="#" class="brand-logo" style="margin-left: 750px"> SeekJob</a>
+                 
                  <ul id="nav-mobile" class="right hide-on-med-and-down">
                      <li><a href="sign-up.php">Sign-up</a></li>
                      <li><a href="login.php">Login</a></li>
@@ -66,7 +66,7 @@ if($x>$_SESSION['expire'])
                 <div class="slider">
                     <ul class="slides">
                       <li>
-                        <img src="img/download1.jpg"> <!-- random image -->
+                        <img src="img/download1.jpg"> 
                         <div class="caption center-align">
                           <h3>Join today to get access to premium jobs</h3>
                           <h5 class="light grey-text text-lighten-3">Sign up now</h5>
